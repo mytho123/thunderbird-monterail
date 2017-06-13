@@ -2,10 +2,7 @@
 
 @font-face {
     font-family: 'LightSans';
-    src: url('../fonts/encodesansnarrow-light.woff2') format('woff2'),
-         url('../fonts/encodesansnarrow-light.woff') format('woff'),
-         url('../fonts/encodesansnarrow-light.ttf') format('truetype'),
-         url('../fonts/encodesansnarrow-light.svg#encode_sans_narrowlight') format('svg');
+    src: url('../fonts/calibri.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }

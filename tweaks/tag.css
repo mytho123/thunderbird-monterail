@@ -673,7 +673,7 @@
 	color: #FF9900 !important;
 }
 #threadTree > treechildren::-moz-tree-cell(lc-FF9900, flaggedCol) {
-	border-left: 5px solid #FF9900 !important;
+	border-left: 8px solid #FF9900 !important;
 	padding-left: 0px !important;
 }
 #threadTree > treechildren::-moz-tree-row(lc-FF9900, selected, focus) {

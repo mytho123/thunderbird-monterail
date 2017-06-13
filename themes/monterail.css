@@ -72,7 +72,7 @@
 	}
 }
 
-#compose-toolbox, #compose-toolbox > *, #ab-toolbox {
+#compose-toolbox, #compose-toolbox > *, #ab-toolbox, #event-toolbox, #event-toolbox > * {
 	-moz-appearance: none !important;
 	background: var(--monterail-color) !important;
 }

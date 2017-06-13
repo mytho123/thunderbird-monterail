@@ -101,6 +101,10 @@
 	color: var(--monterail-text-color) !important;
 }
 
+.searchBox, .searchBox * {
+	color: var(--monterail-text-color) !important;
+}
+
 .mail-toolbox {
 	-moz-appearance: none !important;
 	background: var(--monterail-light-background) !important;
